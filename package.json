@@ -1,5 +1,5 @@
 {
-  "name": "anatta",
+  "name": "@rbxts/anatta",
   "version": "1.0.0",
   "description": "Anatta is a library for dealing with the problem of state in Roblox games. It implements the entity component system, an architectural pattern where each game object is represented by an ID (entity) associated with one or more plain data structures (components). Systems may then apply transformations to sets of entities with specific components. For more background, see:",
   "main": "src/init.lua",
